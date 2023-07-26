@@ -5,7 +5,7 @@
 아래 명령어를 입력하여 해당 레퍼지토리를 클론 할 수 있습니다.
 
 ```zsh
-git clone https://github.com/davindev/docker-practice.git
+git clone https://github.com/davindev/docker-react-example.git
 ```
 
 ![](https://velog.velcdn.com/images/davin/post/62c91d7d-6d1c-42dd-bbe5-ef26df9f32d4/image.png)
